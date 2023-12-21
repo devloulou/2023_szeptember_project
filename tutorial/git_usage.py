@@ -23,4 +23,5 @@ Amikor már git kezelt:
     - azt az állapotot, amit figyelek ahhoz mérten fogom tudni a visszaállítást alkalmazni
     - vagy a flow további lépcsőjére lépni: -
 -> commit message és commit
+-> push-olod a lokál változásokat a remote repository-ba
 """
