@@ -1,2 +1,6 @@
 venv
 .vscode
+meta_service/__pycache__
+meta_service/api_service/__pycache__/
+meta_service/file_service/__pycache__/
+test_meta

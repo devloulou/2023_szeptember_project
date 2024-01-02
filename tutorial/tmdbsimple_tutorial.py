@@ -4,7 +4,7 @@ tmdb.API_KEY = '454b6ca4172e455fe7a7d8395c10d6d9'
 
 search = tmdb.Search()
 
-response = search.movie(query='Aliens')['results'][0]
+response = search.movie(query='Aliens.mkv')['results']
 
 import pprint
 
