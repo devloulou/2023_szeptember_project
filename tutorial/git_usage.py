@@ -24,4 +24,13 @@ Amikor már git kezelt:
     - vagy a flow további lépcsőjére lépni: -
 -> commit message és commit
 -> push-olod a lokál változásokat a remote repository-ba
+
+
+Branchek letöltése:
+
+git fetch --all
+git pull --all
+
+
+
 """
