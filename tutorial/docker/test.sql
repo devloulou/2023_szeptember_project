@@ -14,6 +14,6 @@ insert into docker_test_table (name, age) values ('Ricsi', 33);
 insert into docker_test_table (name, age) values ('Ricsi', 33);
 insert into docker_test_table (name, age) values ('Ricsi', 33);
 insert into docker_test_table (name, age) values ('Ricsi', 33);
-insert into docker_test_table (name, age) values ('Ricsi', 33);
+insert into docker_test_table (name, age) values ('Pisti', 50);
 
 commit;
