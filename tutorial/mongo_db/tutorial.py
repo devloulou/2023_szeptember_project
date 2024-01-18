@@ -12,7 +12,9 @@ MongoDB
 NoSQL adatbázis - Nem relációs adatbázis -> nem táblákba szervezem az adatot
 nem lesz kiépített kapcsolat a táblák között -> szülő - gyermek kapcsolat
 
-
+In-memory - 
+Cache adatbázisok - 
+Graph adatbázis
 
 
 """
